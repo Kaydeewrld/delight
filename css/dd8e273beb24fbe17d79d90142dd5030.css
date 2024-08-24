@@ -68,7 +68,7 @@
 #banner-carousel .carousel-item .carousel-info .container .banner-link-btton {
   background: linear-gradient(90deg, #ffffff -13.32%, #ffffff 120.64%);
   border-radius: 50px;
-  padding: 18px 47.5px;
+  
   font-weight: 600;
   font-size: 16px;
   line-height: 16px;
@@ -85,7 +85,7 @@
 @media only screen and (max-width:991px) {
   #banner-carousel .carousel-item .carousel-info .container .banner-link-btton {
     font-size: 14px;
-    padding: 16px 40px
+    padding:  
   }
 }
 
@@ -114,7 +114,7 @@
 @media only screen and (max-width:991px) {
   #banner-carousel .carousel-indicators {
     left: 56px;
-    margin-bottom: 50px
+   
   }
 }
 
@@ -3562,8 +3562,8 @@ ul.slick-dots li.slick-active button:after {
   #banner-carousel .carousel-info {
     position: relative;
     color: #fff;
-    padding-bottom: 121px;
-    padding: 20px 0 125px;
+  
+    padding: 20px 0 25px;
     border-bottom: .5px solid rgba(0, 0, 0, .4)
   }
 
@@ -3578,6 +3578,7 @@ ul.slick-dots li.slick-active button:after {
     font-size: 24px;
     line-height: 30px;
     color: #000
+    
   }
 
   #banner-carousel {
@@ -3609,7 +3610,7 @@ ul.slick-dots li.slick-active button:after {
     position: relative;
     color: #fff;
     padding-bottom: 121px;
-    padding: 20px 0 125px;
+    padding: 20px 0 25px;
     border: 0;
     height: auto
   }
@@ -5078,14 +5079,14 @@ header.home.tech-header.sticky-top .navbar-brand img {
 }
 
 .gradient-effect {
-  background-image: linear-gradient(45deg, #2b1fb6, #0085ff, #2b1fb6 95.64%) !important;
+  background-image: linear-gradient(45deg, #7c1d18, #ff5a3c, #7c1d18 95.64%) !important;
   background-size: 300% 400% !important;
-  transition: .6s all !important
+  transition: .6s all !important;
 }
 
 .gradient-effect:hover {
-  background-image: linear-gradient(45deg, #2b1fb6, #00aeff, #2b1fb6) !important;
-  background-position: 75% 10% !important
+  background-image: linear-gradient(45deg, #7c1d18, #ff794b, #7c1d18) !important;
+  background-position: 75% 10% !important;
 }
 
 .white-btn-hover:hover {
@@ -12216,14 +12217,14 @@ header.home.tech-header.sticky-top .navbar-brand img {
 }
 
 .gradient-effect {
-  background-image: linear-gradient(45deg, #2b1fb6, #0085ff, #2b1fb6 95.64%) !important;
+  background-image: linear-gradient(45deg, #7c1d18, #ff5a3c, #7c1d18 95.64%) !important;
   background-size: 300% 400% !important;
-  transition: .6s all !important
+  transition: .6s all !important;
 }
 
 .gradient-effect:hover {
-  background-image: linear-gradient(45deg, #2b1fb6, #00aeff, #2b1fb6) !important;
-  background-position: 75% 10% !important
+  background-image: linear-gradient(45deg, #7c1d18, #ff794b, #7c1d18) !important;
+  background-position: 75% 10% !important;
 }
 
 .white-btn-hover:hover {
@@ -12598,8 +12599,8 @@ form .form-control:focus::placeholder {
   #banner-carousel .carousel-item .carousel-info {
     position: relative;
     color: #fff;
-    padding-bottom: 121px;
-    padding: 20px 0 125px;
+    padding-bottom: 21px;
+    padding: 20px 0 25px;
     border-bottom: .5px solid rgba(0, 0, 0, .4)
   }
 
@@ -18473,7 +18474,7 @@ form .form-control:focus::placeholder {
   }
 
   #banner-carousel .carousel-info {
-    padding: 20px 16px 125px
+    padding: 20px 16px 25px
   }
 
   .image-carousel.tech .slick-slide .slider-banner-image {
@@ -18801,7 +18802,7 @@ form .form-control:focus::placeholder {
   }
 
   #banner-carousel .carousel-info {
-    padding: 20px 16px 125px
+    padding: 20px 16px 25px
   }
 
   #global-transformation .title {

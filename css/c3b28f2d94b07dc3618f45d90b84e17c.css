@@ -5075,13 +5075,13 @@ header.home.tech-header.sticky-top .navbar-brand img {
 }
 
 .gradient-effect {
-  background-image: linear-gradient(45deg, #2b1fb6, #0085ff, #2b1fb6 95.64%) !important;
+  background-image: linear-gradient(45deg, #7c1d18, #ff5a3c, #7c1d18 95.64%) !important;
   background-size: 300% 400% !important;
   transition: .6s all !important
 }
 
 .gradient-effect:hover {
-  background-image: linear-gradient(45deg, #2b1fb6, #00aeff, #2b1fb6) !important;
+  background-image: linear-gradient(45deg, #7c1d18, #ff794b, #7c1d18) !important;
   background-position: 75% 10% !important
 }
 

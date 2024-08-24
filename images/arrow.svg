@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="5">
-	<defs>
-		<clipPath id="clip_0">
-			<rect x="-674" y="-310" width="1440" height="760" clip-rule="evenodd"/>
-		</clipPath>
-	</defs>
-	<g clip-path="url(#clip_0)">
-		<path fill="rgb(230,25,45)" stroke="none" transform="matrix(-4.37114e-08 -1 1 -4.37114e-08 0.5 5.5)" d="M5 52.4248L3.02139 52.4248L3.02139 -3.97904e-13L2.21925 -3.97904e-13L2.21925 52.4248L0 52.4248L2.56684 56"/>
-	</g>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" fill="none">
+  <path d="M2.1875 12.8126L11.8418 3.1582M11.8418 3.1582L5.59492 3.1582M11.8418 3.1582V9.40513" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
 </svg>
