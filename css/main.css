@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 /* global styles */
 @font-face {
   font-family: "aeonikbold";

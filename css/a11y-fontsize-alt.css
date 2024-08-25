@@ -2,3 +2,6 @@
 html.fontsize {
 	font-size:  var(--wpa-font-size) !important;
 }
+body{
+	overflow-x: hidden;
+  }

@@ -1,3 +1,7 @@
+body{
+  overflow-x: hidden;
+}
+
 #broad-spectrum {
   padding-top: 146px;
   padding-bottom: 158px;
